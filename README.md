@@ -1,5 +1,7 @@
 # Random-Password-Generator
 
+![This is the password generator photo that shows the randomly generated password in the text field.](./assets/images/password-generator.PNG)
+
 For our 3rd homework assignment we were tasked with creating a random password generator that would allow the user to use confirms and prompts in order to set the max length for the string and would allow the user to select 1 through 4 of the specified character types.
 
 When the user needed a new and secure password, they are able to select the generate password button and a randomized string will appear in the correct text-box
