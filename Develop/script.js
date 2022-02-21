@@ -43,7 +43,7 @@ function generatePassword() {
     chosenCharacters += upperCase
   }
 
-  // If hasLowerCase = True, the chosen array will
+  // If hasLowerCase = True, the chosen array will~
   if (hasLowerCase) {
     chosenCharacters += lowerCase
   }
